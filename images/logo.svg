@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Placeholder wordmark (text, so it depends on the viewer's fonts). Replace with the real Comma for Grasshopper logo. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 28" role="img" aria-label="Comma for Grasshopper">
+  <text x="0" y="21" font-family="Lato, 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" fill="#1f2937">Comma <tspan fill="#f97316">GH</tspan></text>
+</svg>
